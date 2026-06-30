@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakhan Singh</h1>
-<h3 align="center">BCA (AI & ML) Student | Aspiring AI Engineer & Data Analyst | Full Stack Developer</h3>
+<h3 align="center">BCA (AI & ML) Student | Aspiring AI Engineer & Data Analyst | ML Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Enthusiast;Data+Analytics+%7C+Python+%7C+Power+BI;Always+Learning+New+Technologies" alt="Typing SVG" />
