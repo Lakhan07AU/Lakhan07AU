@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://lakhan07au.github.io/">
+  <a href="[https://lakhan07au.github.io/](https://lakhan07au.github.io/portfolio/)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://github.com/Lakhan07AU">
