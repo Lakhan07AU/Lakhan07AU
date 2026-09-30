@@ -139,7 +139,7 @@ Medical Report Processing • AI-assisted Analysis • Health History Intelligen
 
 Python • FastAPI • PostgreSQL • Redis • Celery • LLM-based workflows
 
-🔗 [View Project](https://github.com/Lakhan07AU/Projects/tree/main/HealthSphere)
+🔗 [View Project](https://healthsphereai.vercel.app/#/dashboard)
 
 ---
 
