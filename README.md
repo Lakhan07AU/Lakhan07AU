@@ -219,7 +219,7 @@ Alongside AI/ML, I participate in university leadership, competitions and techni
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://lakhan07au.github.io/">Portfolio</a> •
+  <a href="https://lakhan07au.github.io/portfolio/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/lakhan-singh-8091b8333/">LinkedIn</a> •
   <a href="https://leetcode.com/u/lakhansingh_07/">LeetCode</a> •
   <a href="https://www.hackerrank.com/profile/lakhansingh07071">HackerRank</a> •
